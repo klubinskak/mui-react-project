@@ -1,0 +1,14 @@
+.avatar-img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 20px;
+    border: 2px solid white;
+}
+
+.bg-image{
+    width: 500px;
+    height: 40vh;
+    margin-top: 20px;
+}
